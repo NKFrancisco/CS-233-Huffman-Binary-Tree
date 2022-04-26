@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  HuffmanCoding.cpp
+  HuffmanTree.cpp
+E:\.Francisco\Documents\School\EvCC\2021\Spring 21\CS 233\Programs\HuffmanCoding\HuffmanCoding\HuffmanCoding\HuffmanTree.cpp(42,6): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\.Francisco\Documents\School\EvCC\2021\Spring 21\CS 233\Programs\HuffmanCoding\HuffmanCoding\HuffmanCoding\HuffmanTree.cpp(340,43): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  HuffmanCoding.vcxproj -> E:\.Francisco\Documents\School\EvCC\2021\Spring 21\CS 233\Programs\HuffmanCoding\HuffmanCoding\x64\Debug\HuffmanCoding.exe

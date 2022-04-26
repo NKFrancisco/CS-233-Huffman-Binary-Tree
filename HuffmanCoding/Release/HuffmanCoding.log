@@ -1,0 +1,14 @@
+﻿  HuffmanCoding.cpp
+  HuffmanTree.cpp
+E:\.Francisco\Documents\School\EvCC\2021\Spring 21\CS 233\Programs\HuffmanCoding\HuffmanCoding\HuffmanCoding\HuffmanTree.cpp(203,20): warning C4018: '<': signed/unsigned mismatch
+E:\.Francisco\Documents\School\EvCC\2021\Spring 21\CS 233\Programs\HuffmanCoding\HuffmanCoding\HuffmanCoding\HuffmanTree.cpp(260,20): warning C4018: '<': signed/unsigned mismatch
+E:\.Francisco\Documents\School\EvCC\2021\Spring 21\CS 233\Programs\HuffmanCoding\HuffmanCoding\HuffmanCoding\HuffmanTree.cpp(277,20): warning C4018: '<': signed/unsigned mismatch
+E:\.Francisco\Documents\School\EvCC\2021\Spring 21\CS 233\Programs\HuffmanCoding\HuffmanCoding\HuffmanCoding\HuffmanTree.cpp(314,20): warning C4018: '<': signed/unsigned mismatch
+E:\.Francisco\Documents\School\EvCC\2021\Spring 21\CS 233\Programs\HuffmanCoding\HuffmanCoding\HuffmanCoding\HuffmanTree.cpp(327,20): warning C4018: '<': signed/unsigned mismatch
+E:\.Francisco\Documents\School\EvCC\2021\Spring 21\CS 233\Programs\HuffmanCoding\HuffmanCoding\HuffmanCoding\HuffmanTree.cpp(383,20): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  6 of 746 functions ( 0.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    14 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  HuffmanCoding.vcxproj -> E:\.Francisco\Documents\School\EvCC\2021\Spring 21\CS 233\Programs\HuffmanCoding\HuffmanCoding\Release\HuffmanCoding.exe
